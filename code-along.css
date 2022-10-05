@@ -7,6 +7,8 @@
   width: 20%;
   margin: auto;
   display: inline-block;
+  translate: (150px);
+  opacity: 0.5;
 }
 
 /****************************************
